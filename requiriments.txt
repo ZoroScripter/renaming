@@ -1,0 +1,4 @@
+clear
+pkg install python
+pkg install figlet
+clear
